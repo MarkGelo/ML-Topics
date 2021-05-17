@@ -5,8 +5,10 @@ Achieved **92.4**% on Extended Ballroom using a Dual CNN + SVM model with STFT a
 
 The models are not included in this repository but can be [downloaded](https://drive.google.com/drive/folders/1bwOtg4QYzKRave24x3r-mbmLlapgBfkH?usp=sharing).
 
-## Architecture
-![CNN Architecture](images/CNN.png)
+More information can be found by looking at the main [notebook](Music_Genre_Classification.ipynb) and the [paper](Final_Paper.pdf).
+
+## Dual CNN Framework
 ![Dual CNN Framework](images/DUALCNNCLASSICAL.png)
 
-More information can be found by looking at the main notebook and the paper.
+## CNN Architecture
+![CNN Architecture](images/CNN.png)
